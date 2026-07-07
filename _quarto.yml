@@ -1,0 +1,54 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  
+  navbar:
+    background: "#FFFFFF"
+    foreground: "#1F3A5F"
+    pinned: true
+    collapse: true
+    search: true
+    logo: "logo.png"
+
+    left:
+      - href: index.qmd
+        text: Home
+      - href: program.qmd
+        text: Program
+      - href: speakers.qmd
+        text: Speakers
+      - href: submission.qmd
+        text: Call for Papers
+      - href: committee.qmd
+        text: Committees
+      - href: registration.qmd
+        text: Registration
+      - href: venue.qmd
+        text: Venue
+      - href: contact.qmd
+        text: Contact
+
+  page-footer:
+    background: "#0F4C81"
+    foreground: "#FFFFFF"
+    left: "© 2026 CAMBio Laboratory"
+    center: "**NSBM 2026**"
+    right: "Constantine, Algeria"
+
+format:
+  html:
+    theme:
+      - lux
+      - custom.scss
+    css: styles.css
+    page-layout: full
+    toc: false
+    smooth-scroll: true
+    anchor-sections: true
+    code-copy: true
+    link-external-newwindow: true
+
+execute:
+  freeze: auto

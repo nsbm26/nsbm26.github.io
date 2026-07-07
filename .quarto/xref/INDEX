@@ -1,0 +1,32 @@
+{
+  "index.qmd": {
+    "index.html": "00cb868a"
+  },
+  "about.qmd": {
+    "about.html": "16aa430a"
+  },
+  "program.qmd": {
+    "program.html": "3c32db06"
+  },
+  "speakers.qmd": {
+    "speakers.html": "e216a1bd"
+  },
+  "submission.Rmd": {
+    "submission.html": "410b1d75"
+  },
+  "committee.qmd": {
+    "committee.html": "29b37a2b"
+  },
+  "registration.qmd": {
+    "registration.html": "51f58ec3"
+  },
+  "venue.qmd": {
+    "venue.html": "9e0238b8"
+  },
+  "contact.qmd": {
+    "contact.html": "992007a6"
+  },
+  "submission.qmd": {
+    "submission.html": "7b836289"
+  }
+}

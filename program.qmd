@@ -1,0 +1,114 @@
+---
+title: "Scientific Program"
+page-layout: article
+toc: true
+---
+
+# Scientific Program
+
+The **1st Hybrid National Seminar on Bioactive Molecules** will take place over **two days**, bringing together keynote lectures, oral presentations, poster sessions, and scientific discussions.
+
+> **Dates:** November 29–30, 2026\
+> **Venue:** National Higher School of Biotechnology (ENSB), Constantine, Algeria
+
+------------------------------------------------------------------------
+
+## Day 1 — Sunday, November 29, 2026
+
+### Opening Ceremony
+
+| Time          | Activity          |
+|---------------|-------------------|
+| 08:00 – 09:00 | Registration      |
+| 09:00 – 09:30 | Opening Ceremony  |
+| 09:30 – 10:00 | Welcome Address   |
+| 10:00 – 11:00 | Keynote Lecture 1 |
+| 11:00 – 11:30 | Coffee Break      |
+
+------------------------------------------------------------------------
+
+### Scientific Session I
+
+**Topic 1: Pharmacology of Bioactive Molecules and Citizen Health**
+
+| Time          | Activity           |
+|---------------|--------------------|
+| 11:30 – 13:00 | Oral Presentations |
+| 13:00 – 14:00 | Lunch Break        |
+
+------------------------------------------------------------------------
+
+### Scientific Session II
+
+**Topic 2: Bioactive Molecules for Food Security and Agro-industry**
+
+| Time          | Activity                    |
+|---------------|-----------------------------|
+| 14:00 – 15:30 | Oral Presentations          |
+| 15:30 – 16:00 | Coffee Break                |
+| 16:00 – 17:30 | Poster Session & Discussion |
+
+------------------------------------------------------------------------
+
+## Day 2 — Monday, November 30, 2026
+
+### Scientific Session III
+
+**Topic 3: Microbial Biotechnologies and Energy Security**
+
+| Time          | Activity           |
+|---------------|--------------------|
+| 09:00 – 10:30 | Oral Presentations |
+| 10:30 – 11:00 | Coffee Break       |
+
+------------------------------------------------------------------------
+
+### Scientific Session IV
+
+**Topic 4: Environmental Valorization and Preservation**
+
+| Time          | Activity           |
+|---------------|--------------------|
+| 11:00 – 12:30 | Oral Presentations |
+| 12:30 – 14:00 | Lunch Break        |
+
+------------------------------------------------------------------------
+
+### Scientific Session V
+
+**Topic 5: Digital Innovation and Artificial Intelligence in Biotechnology**
+
+| Time          | Activity           |
+|---------------|--------------------|
+| 14:00 – 15:30 | Oral Presentations |
+| 15:30 – 16:00 | Coffee Break       |
+
+------------------------------------------------------------------------
+
+## Closing Ceremony
+
+| Time          | Activity                 |
+|---------------|--------------------------|
+| 16:00 – 16:30 | Best Presentation Awards |
+| 16:30 – 17:00 | Closing Remarks          |
+| 17:00         | End of Seminar           |
+
+------------------------------------------------------------------------
+
+## Scientific Themes
+
+The scientific program is organized around the following thematic areas:
+
+1.  Pharmacology of Bioactive Molecules and Citizen Health
+2.  Bioactive Molecules for Food Security and Agro-industry
+3.  Microbial Biotechnologies and Energy Security
+4.  Environmental Valorization and Preservation
+5.  Digital Innovation and Artificial Intelligence in Biotechnology
+
+------------------------------------------------------------------------
+
+::: callout-note
+## Program Updates
+
+The detailed scientific program, including keynote speakers, oral presentations, and poster sessions, will be published after the abstract acceptance notifications.
+:::

@@ -1,0 +1,111 @@
+---
+title: "Invited Speakers"
+page-layout: article
+toc: false
+---
+
+The **1st Hybrid National Seminar on Bioactive Molecules** will feature distinguished researchers and experts from academia, research institutions, and industry.
+
+The list of invited speakers will be updated as confirmations are received.
+
+------------------------------------------------------------------------
+
+## Keynote Speakers
+
+::: callout-note
+### Coming Soon
+
+The keynote speakers will be announced shortly.
+
+Stay tuned for updates!
+:::
+
+------------------------------------------------------------------------
+
+## Invited Speakers
+
+::::::: grid
+::: g-col-md-6
+### 👤 Speaker 1
+
+**Name:** To be announced
+
+**Affiliation:** —
+
+**Country:** —
+
+**Topic:** —
+:::
+
+::: g-col-md-6
+### 👤 Speaker 2
+
+**Name:** To be announced
+
+**Affiliation:** —
+
+**Country:** —
+
+**Topic:** —
+:::
+
+::: g-col-md-6
+### 👤 Speaker 3
+
+**Name:** To be announced
+
+**Affiliation:** —
+
+**Country:** —
+
+**Topic:** —
+:::
+
+::: g-col-md-6
+### 👤 Speaker 4
+
+**Name:** To be announced
+
+**Affiliation:** —
+
+**Country:** —
+
+**Topic:** —
+:::
+:::::::
+
+------------------------------------------------------------------------
+
+## Scientific Themes
+
+The invited talks will cover the seminar's five thematic areas:
+
+-   🩺 Pharmacology of Bioactive Molecules and Citizen Health
+-   🌱 Bioactive Molecules for Food Security and Agro-industry
+-   🔬 Microbial Biotechnologies and Energy Security
+-   🌍 Environmental Valorization and Preservation
+-   🤖 Digital Innovation and Artificial Intelligence in Biotechnology
+
+------------------------------------------------------------------------
+
+## Call for Speakers
+
+Researchers interested in delivering an invited lecture may contact the organizing committee.
+
+**Email:**\
+**nsbm\@ensbiotech.edu.dz**
+
+------------------------------------------------------------------------
+
+::: callout-important
+## Speaker Information
+
+Each invited speaker will have a dedicated profile including:
+
+-   Photograph
+-   Short biography
+-   Affiliation
+-   Research interests
+-   Presentation title
+-   Abstract
+:::

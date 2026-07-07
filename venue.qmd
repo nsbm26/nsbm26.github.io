@@ -1,0 +1,157 @@
+---
+title: "Venue"
+page-layout: article
+toc: true
+---
+
+The **1st Hybrid National Seminar on Bioactive Molecules (NSBM 2026)** will be held in **hybrid format**, allowing participants to attend **in person** at the National Higher School of Biotechnology (ENSB), Constantine, Algeria, or **online** from anywhere in the world.
+
+
+![](ENSB.JPG){width=100% fig-alt="ENSB, Algeria"}
+
+
+---
+
+# Seminar Venue
+
+::: {.callout-tip}
+
+## National Higher School of Biotechnology (ENSB)
+
+**École Nationale Supérieure de Biotechnologie (ENSB) – Taoufik Khaznadar**
+
+📍 Ville Universitaire Ali Mendjeli  
+BP E66 RP 25.100  
+Constantine, Algeria
+
+☎ **Telephone:** +213 (0)31 786 011
+
+📠 **Fax:** +213 (0)31 786 010
+
+🌐 **Website:** <https://www.ensbiotech.edu.dz>
+
+:::
+
+---
+
+# About ENSB
+
+The **National Higher School of Biotechnology (ENSB)** is one of Algeria's leading institutions dedicated to biotechnology education, scientific research, and innovation.
+
+Located within the **Ali Mendjeli University Campus**, ENSB offers modern teaching facilities, advanced laboratories, and an inspiring academic environment. Its location in **Constantine**, one of Algeria's major scientific and cultural centers, makes it an ideal venue for bringing together researchers, academics, students, and industry professionals.
+
+---
+
+# Participation
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+::: {.callout-important}
+
+## 🏛️ On-site Participation
+
+Participants attending in person will be able to:
+
+- Attend keynote lectures
+- Present oral and poster communications
+- Participate in scientific discussions
+- Meet researchers and industry professionals
+- Build new collaborations and networks
+
+:::
+
+:::
+
+::: {.column width="50%"}
+
+::: {.callout-note}
+
+## 💻 Online Participation
+
+Remote participants will receive:
+
+- Secure access to the online platform
+- Live streaming of scientific sessions
+- Electronic conference materials
+- Certificate of participation
+
+:::
+
+:::
+
+::::
+
+---
+
+# Getting to Constantine
+
+Constantine is easily accessible from all regions of Algeria.
+
+- ✈️ **Mohamed Boudiaf International Airport**
+- 🚆 National railway services
+- 🚌 Intercity bus network
+- 🚖 Taxi services
+
+ENSB is located in the **Ali Mendjeli University Campus**, approximately 20 minutes from Constantine city centre and the international airport.
+
+---
+
+# Accommodation
+
+Participants are encouraged to reserve accommodation as early as possible.
+
+Hotels are available near the university campus as well as in the city centre.
+
+A list of recommended hotels and negotiated conference rates will be published soon.
+
+---
+
+# Interactive Map
+
+::: {.callout-note}
+
+Locate the seminar venue on Google Maps:
+
+<https://maps.app.goo.gl/>
+
+:::
+
+---
+
+# Discover Constantine
+![](Constantine.JPG){width=100% fig-alt="Constantine"}
+
+Known as the **City of Bridges**, Constantine is one of the oldest and most fascinating cities in North Africa.
+
+During your stay, you may wish to visit:
+
+- 🌉 Sidi M'Cid Suspension Bridge
+- 🏛️ Palace of Ahmed Bey
+- 🕌 Emir Abdelkader Mosque
+- 🏺 Cirta National Museum
+- 🌄 Rhumel Gorges
+- 🍽️ Traditional restaurants and cafés
+
+---
+
+# Contact
+
+For any questions regarding travel, accommodation, or the venue, please contact:
+
+**Seminar Secretariat**
+
+📧 **nsbm@ensbiotech.edu.dz**
+
+☎ **+213 5 50 84 74 87**
+
+---
+
+::: {.callout-important}
+
+## We Look Forward to Welcoming You!
+
+Whether you join us **in Constantine** or **online**, we look forward to welcoming you to the **1st Hybrid National Seminar on Bioactive Molecules (NSBM 2026)** and wish you a productive and enjoyable scientific experience.
+
+:::
