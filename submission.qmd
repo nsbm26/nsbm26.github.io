@@ -1,8 +1,9 @@
 ---
-title: "Call for Papers"
+title: "Submission"
 page-layout: article
 toc: true
 ---
+
 
 The **Concept and Application of Bioactive Molecules (CAMBio) Laboratory**, in partnership with the **National Higher School of Biotechnology (ENSB) – Taoufik Khaznadar**, is pleased to invite researchers, academics, PhD students, and professionals to submit their original research contributions to the
 
