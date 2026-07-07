@@ -1,11 +1,12 @@
 ---
-title: "1st Hybrid National Seminar on Bioactive Molecules"
 page-layout: full
 toc: false
 ---
 
 ::: hero-section
-### From Characterization to Innovative Biotechnological Applications
+![](Constantine.JPG){width="100%"}
+
+### The First Hybrid National Seminar on Bioactive Molecules: From Characterization to Innovative Biotechnological Applications
 
 **November 29–30, 2026**
 
@@ -16,18 +17,13 @@ toc: false
 
 <br>
 
-[Call for Abstracts](submission.qmd){.btn .btn-success .btn-lg} [Registration](registration.qmd){.btn .btn-primary .btn-lg}
 :::
 
 <br>
 
-## Welcome
+The **1st Hybrid National Seminar on Bioactive Molecules: From Characterization to Innovative Biotechnological Applications (NSBM26)** is organized by the **Concept and Application of Bioactive Molecules (CAMBio) Laboratory** in partnership with the **National Higher School of Biotechnology (ENSB)**.
 
-The **Concept and Application of Bioactive Molecules (CAMBio) Laboratory**, in partnership with the **National Higher School of Biotechnology (ENSB)**, is pleased to welcome you to the **1st Hybrid National Seminar on Bioactive Molecules: From Characterization to Innovative Biotechnological Applications**.
-
-This inaugural seminar will bring together researchers, academics, students, and industrial partners to exchange recent advances in bioactive molecules and their innovative applications in biotechnology.
-
-The seminar will be held in **hybrid format**, allowing participants to attend either **on-site** at ENSB or **online**.
+Held in **hybrid format**, NSBM26 will bring together researchers, academics, doctoral students, and industry professionals to showcase the latest advances in bioactive molecules and their biotechnological applications through keynote lectures, oral and poster presentations, and high-level scientific discussions.
 
 ------------------------------------------------------------------------
 
@@ -35,13 +31,13 @@ The seminar will be held in **hybrid format**, allowing participants to attend e
 
 Bioactive molecules play a central role in modern scientific innovation by connecting natural resources with solutions that improve human health, agriculture, energy production, and environmental sustainability.
 
-The seminar aims to
+The seminar aims to:
 
--   promote the valorization of natural bioresources;
--   encourage innovation in biotechnology;
--   strengthen collaboration between academia and industry;
--   showcase recent scientific advances;
--   foster interdisciplinary research addressing national and global challenges.
+- promote the valorization of natural bioresources;
+- encourage innovation in biotechnology;
+- strengthen collaboration between academia and industry;
+- showcase recent scientific advances;
+- foster interdisciplinary research addressing national and global challenges.
 
 ------------------------------------------------------------------------
 
@@ -51,13 +47,13 @@ The seminar aims to
 ::: g-col-lg-4
 ### 🩺 Topic 1
 
-**Pharmacology of Bioactive Molecules and Citizen Health**
+**Pharmacology of Bioactive Molecules and Human Health**
 :::
 
 ::: g-col-lg-4
 ### 🌱 Topic 2
 
-**Bioactive Molecules for Food Security and Agro-industry**
+**Bioactive Molecules for Food Security and Agro-Industry**
 :::
 
 ::: g-col-lg-4
@@ -83,50 +79,19 @@ The seminar aims to
 
 ## Important Dates
 
-| Event                        | Date                     |
+| Event | Date |
 |:-----------------------------|:-------------------------|
-| Call for Abstracts Opens     | June 30, 2026            |
-| Abstract Submission Deadline | September 30, 2026       |
-| Notification of Acceptance   | November 15, 2026        |
-| Seminar                      | **November 29–30, 2026** |
-
-------------------------------------------------------------------------
-
-## Registration Fees
-
-| Category                 |      Fee |
-|:-------------------------|---------:|
-| PhD Students             | 3,000 DA |
-| Professors & Researchers | 6,000 DA |
-| Industrial Participants  | 9,000 DA |
-
-------------------------------------------------------------------------
-
-## Venue
-
-The seminar will take place in hybrid mode:
-
--   📍 **National Higher School of Biotechnology (ENSB)**
--   Ali Mendjeli, Constantine, Algeria
--   💻 Online participation is also available.
-
-------------------------------------------------------------------------
-
-## Why Participate?
-
--   Present your latest research.
--   Meet leading scientists in biotechnology.
--   Connect with industrial partners.
--   Discover innovative applications of bioactive molecules.
--   Build new national collaborations.
--   Attend scientific sessions either on-site or online.
+| Call for Abstracts Opens | June 30, 2026 |
+| Abstract Submission Deadline | September 30, 2026 |
+| Notification of Acceptance | November 15, 2026 |
+| Seminar | **November 29–30, 2026** |
 
 ------------------------------------------------------------------------
 
 ## Organized by
 
--   **Concept and Application of Bioactive Molecules (CAMBio) Laboratory**
--   **National Higher School of Biotechnology (ENSB)**
+- **Concept and Application of Bioactive Molecules (CAMBio) Laboratory**
+- **National Higher School of Biotechnology (ENSB)**
 
 ------------------------------------------------------------------------
 
@@ -134,7 +99,7 @@ The seminar will take place in hybrid mode:
 
 **Email**
 
-nsbm\@ensbiotech.edu.dz
+nsbm@ensbiotech.edu.dz
 
 **Phone**
 

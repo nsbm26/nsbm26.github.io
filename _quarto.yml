@@ -19,8 +19,10 @@ website:
         text: Program
       - href: speakers.qmd
         text: Speakers
+      - href: call.qmd
+        text: Announcement
       - href: submission.qmd
-        text: Call for Papers
+        text: Submission
       - href: committee.qmd
         text: Committees
       - href: registration.qmd
