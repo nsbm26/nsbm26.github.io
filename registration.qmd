@@ -4,8 +4,6 @@ page-layout: article
 toc: true
 ---
 
-# Registration
-
 We are pleased to invite researchers, academics, students, and professionals to participate in the **1st Hybrid National Seminar on Bioactive Molecules: From Characterization to Innovative Biotechnological Applications**.
 
 The seminar will be held in **hybrid format**, allowing participants to attend either **in person** at the National Higher School of Biotechnology (ENSB), Constantine, or **online**.
