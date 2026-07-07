@@ -4,8 +4,6 @@ page-layout: article
 toc: true
 ---
 
-# Scientific Program
-
 The **1st Hybrid National Seminar on Bioactive Molecules** will take place over **two days**, bringing together keynote lectures, oral presentations, poster sessions, and scientific discussions.
 
 > **Dates:** November 29–30, 2026\

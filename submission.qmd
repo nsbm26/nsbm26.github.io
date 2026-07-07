@@ -4,151 +4,170 @@ page-layout: article
 toc: true
 ---
 
-The **Concept and Application of Bioactive Molecules (CAMBio) Laboratory**, in partnership with the **National Higher School of Biotechnology (ENSB) – Taoufik Khaznadar**, is pleased to invite researchers, academics, PhD students, and professionals to submit their original contributions to the:
+The **Concept and Application of Bioactive Molecules (CAMBio) Laboratory**, in partnership with the **National Higher School of Biotechnology (ENSB) – Taoufik Khaznadar**, is pleased to invite researchers, academics, PhD students, and professionals to submit their original research contributions to the
 
 ## **1st Hybrid National Seminar on Bioactive Molecules**
 
 ### *From Characterization to Innovative Biotechnological Applications*
 
-------------------------------------------------------------------------
+---
 
-# Scope
+# Conference Scope
 
-The seminar aims to promote scientific exchange and interdisciplinary collaboration in the field of bioactive molecules and their innovative biotechnological applications.
+The seminar aims to promote scientific exchange and interdisciplinary collaboration in the field of **bioactive molecules** and their innovative biotechnological applications.
 
-We welcome original research contributions related, but not limited, to the following themes.
+We welcome original research contributions related to, but not limited to, the following scientific themes.
 
-------------------------------------------------------------------------
+---
 
 # Scientific Topics
 
-## 🩺 Topic 1
+## 🩺 Topic 1 — Pharmacology of Bioactive Molecules and Citizen Health
 
-### Pharmacology of Bioactive Molecules and Citizen Health
+- Drug discovery
+- Pharmacology
+- Toxicology
+- Therapeutic applications
+- Medicinal chemistry
 
--   Drug discovery
--   Pharmacology
--   Toxicology
--   Therapeutic applications
--   Medicinal chemistry
+---
 
-------------------------------------------------------------------------
+## 🌱 Topic 2 — Bioactive Molecules for Food Security and Agro-industry
 
-## 🌱 Topic 2
+- Functional foods
+- Food biotechnology
+- Natural preservatives
+- Agricultural biotechnology
+- Sustainable food production
 
-### Bioactive Molecules for Food Security and Agro-industry
+---
 
--   Functional foods
--   Food biotechnology
--   Natural preservatives
--   Agricultural biotechnology
--   Sustainable food production
+## 🔬 Topic 3 — Microbial Biotechnologies and Energy Security
 
-------------------------------------------------------------------------
+- Industrial microbiology
+- Fermentation technologies
+- Biofuels
+- Renewable energy
+- Environmental microbiology
 
-## 🔬 Topic 3
+---
 
-### Microbial Biotechnologies and Energy Security
+## 🌍 Topic 4 — Environmental Valorization and Preservation
 
--   Industrial microbiology
--   Fermentation technologies
--   Biofuels
--   Renewable energy
--   Environmental microbiology
+- Bioremediation
+- Circular bioeconomy
+- Waste valorization
+- Green technologies
+- Environmental biotechnology
 
-------------------------------------------------------------------------
+---
 
-## 🌍 Topic 4
+## 🤖 Topic 5 — Digital Innovation and Artificial Intelligence in Biotechnology
 
-### Environmental Valorization and Preservation
+- Artificial Intelligence
+- Machine Learning
+- Bioinformatics
+- Computational Biology
+- Digital Biotechnology
 
--   Bioremediation
--   Circular bioeconomy
--   Waste valorization
--   Green technologies
--   Environmental biotechnology
-
-------------------------------------------------------------------------
-
-## 🤖 Topic 5
-
-### Digital Innovation and Artificial Intelligence in Biotechnology
-
--   Artificial Intelligence
--   Machine Learning
--   Bioinformatics
--   Computational biology
--   Digital biotechnology
-
-------------------------------------------------------------------------
+---
 
 # Submission Guidelines
 
 Authors are invited to submit an original abstract presenting unpublished research.
 
-Submitted abstracts should
+Submitted abstracts **must**
 
--   be written in English or French;
--   clearly state the objectives, methodology, results, and conclusions;
--   correspond to one of the seminar themes;
--   represent original work that has not been previously published.
+- be written in **English** or **French**;
+- clearly state the objectives, methodology, results, and conclusions;
+- address one of the seminar themes;
+- present original work that has not been previously published.
 
-Detailed formatting instructions and the abstract template will be available soon.
+---
 
-------------------------------------------------------------------------
+::: {.callout-important}
+
+## 📄 Download the Official Abstract Template
+
+Please prepare your abstract using the official **NSBM 2026** Microsoft Word template.
+
+[⬇️ Download NSBM26 Abstract Template](files/NSBM26_Template.docx){.btn .btn-primary .btn-lg}
+
+:::
+
+---
 
 # Important Dates
 
-| Event                        | Date                     |
-|------------------------------|--------------------------|
-| Call for Abstracts Opens     | **June 30, 2026**        |
-| Abstract Submission Deadline | **September 30, 2026**   |
-| Notification of Acceptance   | **November 15, 2026**    |
-| Seminar                      | **November 29–30, 2026** |
+| Activity | Date |
+|:------------------------------|:----------------------|
+| Call for Abstracts Opens | **June 30, 2026** |
+| Abstract Submission Deadline | **September 30, 2026** |
+| Notification of Acceptance | **November 15, 2026** |
+| Registration Deadline | **November 22, 2026** |
+| Seminar | **November 29–30, 2026** |
 
-------------------------------------------------------------------------
+---
 
 # Presentation Formats
 
 Accepted contributions may be presented as
 
--   Oral Presentations
--   Poster Presentations
+- 🎤 Oral Presentation
+- 🖼️ Poster Presentation
 
-The Scientific Committee will determine the presentation format based on the review process.
+The final presentation format will be determined by the Scientific Committee after peer review.
 
-------------------------------------------------------------------------
+---
 
-# Submission
+# Abstract Submission
 
-Abstract submission will be available through the seminar submission platform.
+Abstract submission will be carried out through the **Microsoft Conference Management Toolkit (Microsoft CMT)**.
 
-> **Submission Portal:** *(Coming Soon)*
+::: {.callout-note}
 
-------------------------------------------------------------------------
+## Submission Portal
+
+The Microsoft CMT submission portal will be available soon.
+
+<!-- Replace the link below once your conference is created -->
+
+<!--
+[Submit Your Abstract via Microsoft CMT](https://cmt3.research.microsoft.com/NSBM2026){.btn .btn-success .btn-lg target="_blank"}
+-->
+
+:::
+
+---
 
 # Publication
 
-Accepted abstracts will be included in the **Book of Abstracts** of the seminar.
+Accepted abstracts will be published in the official **Book of Abstracts** of the seminar.
 
-Additional publication opportunities will be announced after the review process.
+Additional publication opportunities will be announced by the Organizing Committee.
 
-------------------------------------------------------------------------
+---
 
 # Contact
 
-For questions regarding submissions, please contact
+For questions regarding abstract submission, please contact
 
-**Email:**\
-[**nsbm\@ensbiotech.edu.dz**](mailto:nsbm@ensbiotech.edu.dz){.email}
+📧 **Email**
 
-**Telephone:**\
+**nsbm@ensbiotech.edu.dz**
+
+☎ **Telephone**
+
 +213 5 50 84 74 87
 
-------------------------------------------------------------------------
+---
 
-::: callout-important
+::: {.callout-tip}
+
 ## We Look Forward to Your Contribution
 
-Join us in Constantine to share your latest research, exchange ideas with leading scientists, and contribute to advancing biotechnology and bioactive molecule research.
+We warmly invite you to join **NSBM 2026** and share your latest research with scientists, academics, and professionals working in biotechnology and bioactive molecules.
+
+We look forward to welcoming you to **Constantine, Algeria**, on **November 29–30, 2026**.
+
 :::
