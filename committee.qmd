@@ -4,8 +4,6 @@ page-layout: article
 toc: true
 ---
 
-# Seminar Committees
-
 The success of the **1st Hybrid National Seminar on Bioactive Molecules (NSBM 2026)** relies on the dedication and expertise of its organizing and scientific committees. Their commitment ensures the scientific quality, organization, and success of the seminar.
 
 ---
@@ -196,15 +194,3 @@ National Higher School of Biotechnology (ENSB), Constantine, Algeria
 | Dr. CHEHLATT Sihem | ENSB |
 
 ---
-
-# Acknowledgements
-
-The Organizing Committee sincerely thanks all members of the Scientific Committee, reviewers, institutional partners, and volunteers for their valuable contributions to the success of the seminar.
-
-::: {.callout-tip}
-
-## Thank You
-
-The **1st Hybrid National Seminar on Bioactive Molecules (NSBM 2026)** is made possible through the dedication and collaboration of all committee members, reviewers, partners, and participants.
-
-:::
