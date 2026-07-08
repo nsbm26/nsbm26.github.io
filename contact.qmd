@@ -4,8 +4,6 @@ page-layout: article
 toc: false
 ---
 
-# Contact Us
-
 We are happy to answer any questions regarding the **1st Hybrid National Seminar on Bioactive Molecules: From Characterization to Innovative Biotechnological Applications**.
 
 Whether your inquiry concerns abstract submission, registration, accommodation, or the scientific program, please do not hesitate to contact us.
@@ -14,7 +12,7 @@ Whether your inquiry concerns abstract submission, registration, accommodation, 
 
 ## Seminar Secretariat
 
-**1st Hybrid National Seminar on Bioactive Molecules (NSBM 2026)**
+**The first Hybrid National Seminar on Bioactive Molecules (NSBM 2026)**
 
 **Concept and Application of Bioactive Molecules (CAMBio) Laboratory**
 
@@ -28,17 +26,11 @@ Constantine, Algeria
 
 ## Contact Information
 
-📧 **Email**
+📧 **Email: nsbm@ensbiotech.edu.dz**
 
-**nsbm@ensbiotech.edu.dz**
+☎ **Telephone**: +213 5 50 84 74 87
 
-☎ **Telephone**
-
-+213 5 50 84 74 87
-
-🌐 **Website**
-
-https://www.ensbiotech.edu.dz
+🌐 **Website**: https://www.ensbiotech.edu.dz
 
 ---
 
@@ -68,49 +60,6 @@ please contact the Seminar Secretariat by email.
 
 ---
 
-## Social Media
-
-Follow us for announcements and important updates.
-
-- Facebook *(Coming Soon)*
-- LinkedIn *(Coming Soon)*
-- X (Twitter) *(Coming Soon)*
-
----
-
-## Location
-
-**National Higher School of Biotechnology (ENSB)**
-
-Taoufik Khaznadar Campus
-
-Ali Mendjeli
-
-Constantine, Algeria
-
-> A Google Maps location will be available before the seminar.
-
----
-
-## Frequently Asked Questions
-
-### How can I submit my abstract?
-
-Please visit the **Call for Papers** page for submission guidelines and deadlines.
-
-### How can I register?
-
-Visit the **Registration** page to complete your registration.
-
-### Who should I contact for technical issues?
-
-Please send an email to **nsbm@ensbiotech.edu.dz** with the subject line **Technical Support**.
-
-### Can I receive an invitation letter?
-
-Yes. Registered participants may request an invitation letter from the Organizing Committee.
-
----
 
 ::: {.callout-important}
 

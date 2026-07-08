@@ -88,53 +88,48 @@ National Higher School of Biotechnology (ENSB), Constantine, Algeria
 
 ## Members
 
-:::: {.columns}
+## Members
 
-::: {.column width="50%"}
-
-- Dr. RIRA Moufida
-- Dr. RAHIM Noureddine
-- Dr. ASSADI Imène
-- Dr. ALLOUI Tarek
-- Dr. BENOUCHENE Djamila
-- Dr. TRAD KHODJA Esma Anissa
-- Dr. DJEHAL Amel
-- Dr. BIBAK Sirine
-- Dr. BOUMAZA Khedidja
-- Dr. BENSAAD Mohamed Sabri
-- Dr. KEMMOUCHE Amina
-- Dr. MADDI Taklit
-- Dr. DOUIBI Maroua
-- Dr. GASMI Meriem
-- Dr. LAOURARI Ines
-- Dr. SMATI Maria
-- Dr. KRID Adel
-
-:::
-
-::: {.column width="50%"}
-
-- Dr. BENDJRADA Mohamed Essalih
-- Dr. KECHID Radia
-- Dr. CHELGHOUM Ahlem
-- Dr. KAHLOUCHE Fatima Zohra
-- Dr. ZERMANE Maroua
-- Dr. CHEBAHI Asma
-- Dr. TELAIDJIA Basma
-- Dr. BERBOUCHA Ghozlane
-- Dr. GHARIANI Dounia
-- Dr. BOUHADJAR Maroua
-- Dr. ABBAS Nada
-- Dr. BOUKERZAZA Rania
-- Dr. BOUHIDEL Rayene
-- Dr. MOHAMED BOUCHAALA Antar
-- Dr. GUERAICHE Sara
-- Dr. DAKKICHE Skander
-
-:::
-
-::::
-
+| **Member** | **Institution** |
+|------------|-----------------|
+| Moufida RIRA | ENSB |
+| Noureddine RAHIM | ENSB |
+| Imène ASSADI | ENSB |
+| Tarek ALLOUI | ENSB |
+| Djamila BENOUCHENNE | ENSB |
+| Esma Anissa TRAD KHODJA | ENSB |
+| Amel DJEHAL | ENSB |
+| Sirine BIBAK | ENSB |
+| Khedidja BOUMAZA | ENSB |
+| Mohamed Sabri BENSAAD | University of Batna 1 |
+| Amina KEMMOUCHE | ENSB |
+| Taklit MADDI | ENSB |
+| Maroua DOUIBI | ENSB |
+| Meriem GASMI | ENSB |
+| Ines LAOURARI | ENSB |
+| Maria SMATI | ENSB |
+| Abir ADDOUDA | ENSB |
+| Nor Elhouda AZZIZI | ENSB |
+| Adel KRID | University Constantine 1 |
+| Mohamed Essalih BENDJRADA | ENSB |
+| Radia KECHID | ENSB |
+| Ahlem CHELGHOUM | ENSB |
+| Fatima Zohra KAHLOUCHE | ENSB |
+| Maroua ZERMANE | ENSB |
+| Asma CHEBAHI | ENSB |
+| Basma TELAIDJIA | ENSB |
+| Ghozlane BERBOUCHA | ENSB |
+| Dounia GHARIANI | ENSB |
+| Maroua BOUHADJAR | ENSB |
+| Nada ABBAS | ENSB |
+| Rania BOUKERZAZA | ENSB |
+| Rayene BOUHIDEL | ENSB |
+| Sara GUERAICHE | ENSB |
+| Antar MOHAMED BOUCHAALA | ENSB |
+| Skander DAKKICHE | ENSB |
+| Sawssen KIKAYA | ENSB |
+| Ramzy BOUDOUDA | ENSB |
+| Amina ALOUACHE | ENSB |
 ---
 
 # Scientific Committee
@@ -165,32 +160,35 @@ National Higher School of Biotechnology (ENSB), Constantine, Algeria
 
 ## Members
 
+## Members
+
 | **Committee Member** | **Institution** |
 |----------------------|-----------------|
-| Prof. HAMIDECHI Abdelhafid | University of Khenchela |
-| Prof. BENSLAMA Ouidad | University of Oum El Bouaghi |
-| Prof. BOUCHEDJA Naila Doria | University Constantine 1 |
-| Prof. GRAMA Borhane | University of Oum El Bouaghi |
-| Prof. BOULEBD Houssam | University Constantine 1 |
-| Prof. REZGOUN Larbi | University Constantine 1 |
-| Prof. OUTILI Nawel | University Constantine 3 |
-| Prof. HARFI Boualem | CRBt |
-| Prof. NAIMI Dalila | ENSB |
-| Prof. MARIR Rafik | ENSB |
-| Prof. BANI Mostafa | ENSB |
-| Dr. DAFFRI Amel | University Constantine 1 |
-| Dr. MERZOUG Mohamed | ESSBO |
-| Dr. BENSOUICI Chawki | CRBt |
-| Dr. BENMATI Mahbouba | ENSB |
-| Dr. RIRA Moufida | ENSB |
-| Dr. RAHIM Noureddine | ENSB |
-| Dr. ASSADI Imène | ENSB |
-| Dr. ALLOUI Tarek | ENSB |
-| Dr. BERKANI Mohamed | ENSB |
-| Dr. MEROUANE Fateh | ENSB |
-| Dr. DERABLI Chamseddine | ENSB |
-| Dr. ZERROUKI Soheib | ENSB |
-| Dr. KECHKAR Adel | ENSB |
-| Dr. CHEHLATT Sihem | ENSB |
+| Abdelhafid HAMIDECHI | University Constantine 1 |
+| Naila Doria BOUCHEDJA | University Constantine 1 |
+| Houssam BOULEBD | University Constantine 1 |
+| Larbi REZGOUN | University Constantine 1 |
+| Salah AKKAL | University Constantine 1 |
+| Nawel OUTILI | University Constantine 3 |
+| Ouidad BENSLAMA | University of Oum El Bouaghi |
+| Borhane GRAMA | University of Oum El Bouaghi |
+| Boualem HARFI | CRBt |
+| Dalila NAIMI | ENSB |
+| Rafik MARIR | ENSB |
+| Mostafa BANI | ENSB |
+| Amel DAFFRI | University Constantine 1 |
+| Mohamed MERZOUG | ESSBO |
+| Chawki BENSOUICI | CRBt |
+| Mahbouba BENMATI | ENSB |
+| Moufida RIRA | ENSB |
+| Noureddine RAHIM | ENSB |
+| Imène ASSADI | ENSB |
+| Tarek ALLOUI | ENSB |
+| Mohamed BERKANI | ENSB |
+| Fateh MEROUANE | ENSB |
+| Chamseddine DERABLI | ENSB |
+| Soheib ZERROUKI | ENSB |
+| Adel KECHKAR | ENSB |
+| Sihem CHEHLATT | ENSB |
 
 ---

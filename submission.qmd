@@ -1,17 +1,10 @@
 ---
-title: "Submission"
 page-layout: article
 toc: true
 ---
 
 
-The **Concept and Application of Bioactive Molecules (CAMBio) Laboratory**, in partnership with the **National Higher School of Biotechnology (ENSB) – Taoufik Khaznadar**, is pleased to invite researchers, academics, PhD students, and professionals to submit their original research contributions to the
 
-## **1st Hybrid National Seminar on Bioactive Molecules**
-
-### *From Characterization to Innovative Biotechnological Applications*
-
----
 
 # Conference Scope
 
@@ -100,13 +93,14 @@ Please prepare your abstract using the official **NSBM 2026** Microsoft Word tem
 
 # Important Dates
 
-| Activity | Date |
-|:------------------------------|:----------------------|
-| Call for Abstracts Opens | **June 30, 2026** |
-| Abstract Submission Deadline | **September 30, 2026** |
-| Notification of Acceptance | **November 15, 2026** |
-| Registration Deadline | **November 22, 2026** |
-| Seminar | **November 29–30, 2026** |
+| **Event** | **Date** |
+|------------|-----------------|
+| Call for Abstracts Opens | July 15, 2026 |
+| Abstract Submission Deadline | September 30, 2026 |
+| Notification of Acceptance | October 15, 2026 |
+| Registration Fee Payment | October 16–31, 2026 |
+| Seminar | November 29–30, 2026 |
+
 
 ---
 

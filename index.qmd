@@ -10,8 +10,7 @@ toc: false
 
 **November 29–30, 2026**
 
-**National Higher School of Biotechnology (ENSB) – Taoufik Khaznadar**\
-**Ali Mendjeli, Constantine, Algeria**
+**National Higher School of Biotechnology (ENSB) – Taoufik Khaznadar. Ali Mendjeli, Constantine, Algeria**
 
 ![](ENSB.JPG){width="100%"}
 
@@ -21,7 +20,7 @@ toc: false
 
 <br>
 
-The **1st Hybrid National Seminar on Bioactive Molecules: From Characterization to Innovative Biotechnological Applications (NSBM26)** is organized by the **Conception and Application of Bioactive Molecules (CAMBio) Laboratory** in partnership with the **National Higher School of Biotechnology (ENSB)**.
+The **First Hybrid National Seminar on Bioactive Molecules: From Characterization to Innovative Biotechnological Applications (NSBM26)** is organized by the **Conception and Application of Bioactive Molecules (CAMBio) Laboratory** in partnership with the **National Higher School of Biotechnology (ENSB)**.
 
 Held in **hybrid format**, NSBM26 will bring together researchers, academics, doctoral students, and industry professionals to showcase the latest advances in bioactive molecules and their biotechnological applications through keynote lectures, oral and poster presentations, and high-level scientific discussions.
 
@@ -79,14 +78,22 @@ The seminar aims to:
 
 ## Important Dates
 
-| Event | Date |
-|:-----------------------------|:-------------------------|
-| Call for Abstracts Opens | June 30, 2026 |
-| Abstract Submission Deadline | September 30, 2026 |
-| Notification of Acceptance | November 15, 2026 |
-| Seminar | **November 29–30, 2026** |
+**Call for Abstracts Opens**  
+July 15, 2026
 
-------------------------------------------------------------------------
+**Abstract Submission Deadline**  
+September 30, 2026
+
+**Notification of Acceptance**  
+October 15, 2026
+
+**Registration Fee Payment**  
+October 16–31, 2026
+
+**Seminar**  
+November 29–30, 2026
+
+---
 
 ## Organized by
 
@@ -97,13 +104,9 @@ The seminar aims to:
 
 ## Contact
 
-**Email**
+**Email**: nsbm@ensbiotech.edu.dz
 
-nsbm@ensbiotech.edu.dz
-
-**Phone**
-
-+213 5 50 84 74 87
+**Phone**: +213 5 50 84 74 87
 
 ------------------------------------------------------------------------
 

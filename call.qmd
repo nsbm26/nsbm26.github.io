@@ -4,15 +4,17 @@ page-layout: article
 toc: false
 ---
 
-## *1st Hybrid National Seminar on Bioactive Molecules: From Characterization to Innovative Biotechnological Applications*
+<div style="text-align: center;">
 
 <br>
 
-![](files/NSBM_poster_1.jpg){fig-alt="NSBM26 Conference Poster" width="80%" fig-align="center"}
+![](files/NSBM_poster_1.jpg){fig-alt="NSBM26 Conference Poster" width="80%"}
 
 <br>
 
-<div style="text-align:center;">
+![](files/NSBM_poster_2.jpg){fig-alt="NSBM26 Conference Poster" width="80%"}
+
+<br>
 
 [⬇️ Download the Conference Poster (PDF)](files/NSBM_poster.pdf){.btn .btn-primary .btn-lg}
 
