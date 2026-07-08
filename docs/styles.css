@@ -1,99 +1,563 @@
+/* ============================================
+   CALLOUT BLOCKS - COMPLETE FIX
+   ============================================ */
 
-/* Body */
+/* Force all callout text to be visible */
+div.callout,
+div.callout-important,
+div.callout-note,
+div.callout-tip,
+div.callout-warning,
+div.callout-caution,
+div.cell-output-display .callout,
+div.cell-output-display .callout-important {
+  background: rgba(10, 14, 39, 0.85) !important;
+  backdrop-filter: blur(10px) !important;
+  -webkit-backdrop-filter: blur(10px) !important;
+  border-radius: 12px !important;
+  padding: 20px 25px !important;
+  margin: 20px 0 !important;
+  border-left: 4px solid #4FC3F7 !important;
+  color: #E0E7FF !important;
+}
+
+/* Callout titles */
+div.callout-title,
+div.callout-important .callout-title,
+div.callout-note .callout-title,
+div.callout-tip .callout-title,
+div.callout-warning .callout-title,
+div.callout-caution .callout-title {
+  color: #4FC3F7 !important;
+  font-weight: 700 !important;
+  font-size: 1.1rem !important;
+  background: transparent !important;
+  -webkit-text-fill-color: #4FC3F7 !important;
+}
+
+/* Callout body content */
+div.callout-body,
+div.callout-important .callout-body,
+div.callout-note .callout-body,
+div.callout-tip .callout-body,
+div.callout-warning .callout-body,
+div.callout-caution .callout-body {
+  color: #E0E7FF !important;
+  background: transparent !important;
+}
+
+/* All text inside callouts */
+div.callout *,
+div.callout-important *,
+div.callout-note *,
+div.callout-tip *,
+div.callout-warning *,
+div.callout-caution * {
+  color: #E0E7FF !important;
+  background: transparent !important;
+}
+
+/* Callout headings */
+div.callout h1,
+div.callout h2,
+div.callout h3,
+div.callout h4,
+div.callout-important h1,
+div.callout-important h2,
+div.callout-important h3,
+div.callout-important h4,
+div.callout-note h1,
+div.callout-note h2,
+div.callout-note h3,
+div.callout-note h4,
+div.callout-tip h1,
+div.callout-tip h2,
+div.callout-tip h3,
+div.callout-tip h4,
+div.callout-warning h1,
+div.callout-warning h2,
+div.callout-warning h3,
+div.callout-warning h4,
+div.callout-caution h1,
+div.callout-caution h2,
+div.callout-caution h3,
+div.callout-caution h4 {
+  color: #4FC3F7 !important;
+  -webkit-text-fill-color: #4FC3F7 !important;
+  background: transparent !important;
+  background-image: none !important;
+  margin-top: 0 !important;
+  margin-bottom: 10px !important;
+}
+
+/* Callout paragraphs */
+div.callout p,
+div.callout-important p,
+div.callout-note p,
+div.callout-tip p,
+div.callout-warning p,
+div.callout-caution p {
+  color: #E0E7FF !important;
+  font-size: 1.05rem !important;
+  line-height: 1.6 !important;
+  background: transparent !important;
+}
+
+/* Callout strong/bold text */
+div.callout strong,
+div.callout-important strong,
+div.callout-note strong,
+div.callout-tip strong,
+div.callout-warning strong,
+div.callout-caution strong {
+  color: #4FC3F7 !important;
+  font-weight: 700 !important;
+}
+
+/* Remove any white background from callout elements */
+div.callout > *,
+div.callout-important > *,
+div.callout-note > *,
+div.callout-tip > *,
+div.callout-warning > *,
+div.callout-caution > * {
+  background: transparent !important;
+}
+
+/* Fix for specific callout-important */
+.callout-important {
+  background: rgba(79, 195, 247, 0.08) !important;
+  border-left-color: #4FC3F7 !important;
+}
+
+.callout-important .callout-title {
+  color: #4FC3F7 !important;
+}
+
+.callout-important .callout-body {
+  color: #E0E7FF !important;
+}
+
+.callout-important strong {
+  color: #4FC3F7 !important;
+}
+
+/* Fix for Quarto's default callout styling */
+.quarto-callout {
+  background: rgba(10, 14, 39, 0.85) !important;
+  color: #E0E7FF !important;
+}
+
+.quarto-callout .callout-title {
+  color: #4FC3F7 !important;
+}
+
+.quarto-callout .callout-body {
+  color: #E0E7FF !important;
+}
+
+.quarto-callout .callout-body p {
+  color: #E0E7FF !important;
+}
+
+.quarto-callout strong {
+  color: #4FC3F7 !important;
+}
+/* ============================================
+   BODY & BACKGROUND
+   ============================================ */
 body {
-  background-color: #F8FAFC;
-  color: #2C3E50;
+  background: linear-gradient(180deg, #0a0e27 0%, #1a1f4e 30%, #2d1b69 60%, #1a1f4e 80%, #0a0e27 100%);
+  color: #FFFFFF;
   font-family: "Segoe UI", Roboto, Arial, sans-serif;
+  min-height: 100vh;
+  position: relative;
+  overflow-x: hidden;
 }
 
-.btn-outline-primary {
-  color: #0F4C81;
-  border-color: #0F4C81;
+/* ============================================
+   DNA PARTICLES - LAYER 1
+   ============================================ */
+body::before {
+  content: '';
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-image: 
+    url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='25' height='25' viewBox='0 0 25 25'%3E%3Cpath d='M6 2 Q10 6 6 10 Q2 14 6 18 Q10 22 6 25' stroke='%234FC3F7' stroke-width='1.5' fill='none'/%3E%3Cpath d='M19 2 Q15 6 19 10 Q23 14 19 18 Q15 22 19 25' stroke='%23FF6B9D' stroke-width='1.5' fill='none'/%3E%3C/svg%3E"),
+    url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='20' height='12' viewBox='0 0 20 12'%3E%3Crect x='2' y='2' width='4' height='8' rx='1' fill='%234FC3F7' opacity='0.9'/%3E%3Crect x='14' y='2' width='4' height='8' rx='1' fill='%23FF6B9D' opacity='0.9'/%3E%3Cline x1='4' y1='4' x2='16' y2='4' stroke='%23FFFFFF' stroke-width='0.5' opacity='0.4'/%3E%3Cline x1='4' y1='8' x2='16' y2='8' stroke='%23FFFFFF' stroke-width='0.5' opacity='0.4'/%3E%3C/svg%3E"),
+    url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='15' height='20' viewBox='0 0 15 20'%3E%3Cpath d='M3 1 Q7 5 3 9 Q-1 13 3 17 Q7 21 3 25' stroke='%234FC3F7' stroke-width='1.2' fill='none'/%3E%3Cpath d='M12 1 Q8 5 12 9 Q16 13 12 17 Q8 21 12 25' stroke='%23FF6B9D' stroke-width='1.2' fill='none'/%3E%3C/svg%3E"),
+    url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='14' height='14' viewBox='0 0 14 14'%3E%3Ccircle cx='4' cy='4' r='2.5' fill='%234FC3F7'/%3E%3Ccircle cx='10' cy='4' r='2.5' fill='%23FF6B9D'/%3E%3Ccircle cx='4' cy='10' r='2.5' fill='%23FF6B9D'/%3E%3Ccircle cx='10' cy='10' r='2.5' fill='%234FC3F7'/%3E%3C/svg%3E"),
+    url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='18' height='18' viewBox='0 0 18 18'%3E%3Cpath d='M4 2 L7 5 L4 8 L1 5 Z' fill='%234FC3F7' opacity='0.8'/%3E%3Cpath d='M14 2 L17 5 L14 8 L11 5 Z' fill='%23FF6B9D' opacity='0.8'/%3E%3Cline x1='4' y1='3' x2='14' y2='3' stroke='%23FFFFFF' stroke-width='0.4' opacity='0.3'/%3E%3Cline x1='4' y1='7' x2='14' y2='7' stroke='%23FFFFFF' stroke-width='0.4' opacity='0.3'/%3E%3C/svg%3E"),
+    url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='10' height='16' viewBox='0 0 10 16'%3E%3Ccircle cx='3' cy='3' r='1.8' fill='%234FC3F7'/%3E%3Ccircle cx='7' cy='3' r='1.8' fill='%23FF6B9D'/%3E%3Ccircle cx='3' cy='8' r='1.8' fill='%23FF6B9D'/%3E%3Ccircle cx='7' cy='8' r='1.8' fill='%234FC3F7'/%3E%3Ccircle cx='3' cy='13' r='1.8' fill='%234FC3F7'/%3E%3Ccircle cx='7' cy='13' r='1.8' fill='%23FF6B9D'/%3E%3C/svg%3E"),
+    url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='22' height='22' viewBox='0 0 22 22'%3E%3Cpath d='M5 2 Q9 5 5 8 Q1 11 5 14 Q9 17 5 20' stroke='%234FC3F7' stroke-width='1.3' fill='none'/%3E%3Cpath d='M17 2 Q13 5 17 8 Q21 11 17 14 Q13 17 17 20' stroke='%23FF6B9D' stroke-width='1.3' fill='none'/%3E%3Cline x1='5' y1='4' x2='17' y2='4' stroke='%23FFFFFF' stroke-width='0.4' opacity='0.3'/%3E%3Cline x1='5' y1='11' x2='17' y2='11' stroke='%23FFFFFF' stroke-width='0.4' opacity='0.3'/%3E%3Cline x1='5' y1='18' x2='17' y2='18' stroke='%23FFFFFF' stroke-width='0.4' opacity='0.3'/%3E%3C/svg%3E"),
+    url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='20' viewBox='0 0 16 20'%3E%3Crect x='2' y='1' width='2' height='18' rx='0.5' fill='%234FC3F7' opacity='0.6'/%3E%3Crect x='12' y='1' width='2' height='18' rx='0.5' fill='%23FF6B9D' opacity='0.6'/%3E%3Cline x1='3' y1='4' x2='13' y2='4' stroke='%23FFFFFF' stroke-width='0.3' opacity='0.2'/%3E%3Cline x1='3' y1='8' x2='13' y2='8' stroke='%23FFFFFF' stroke-width='0.3' opacity='0.2'/%3E%3Cline x1='3' y1='12' x2='13' y2='12' stroke='%23FFFFFF' stroke-width='0.3' opacity='0.2'/%3E%3Cline x1='3' y1='16' x2='13' y2='16' stroke='%23FFFFFF' stroke-width='0.3' opacity='0.2'/%3E%3C/svg%3E");
+  background-size: 28px 28px, 22px 14px, 18px 24px, 16px 16px, 20px 20px, 14px 20px, 25px 25px, 18px 22px;
+  background-repeat: no-repeat;
+  background-position: 
+    5% 8%, 15% 25%, 25% 45%, 35% 12%, 45% 30%, 55% 50%,
+    65% 18%, 75% 35%, 85% 55%, 92% 20%,
+    8% 65%, 18% 80%, 28% 92%, 38% 70%, 48% 85%, 58% 95%,
+    68% 75%, 78% 88%, 88% 98%, 95% 68%,
+    12% 40%, 22% 55%, 32% 72%, 42% 38%, 52% 55%, 62% 75%,
+    72% 42%, 82% 58%, 92% 78%,
+    3% 92%, 13% 10%, 23% 30%, 33% 60%, 43% 85%, 53% 15%,
+    63% 40%, 73% 65%, 83% 90%, 93% 45%;
+  animation: floatDNA1 25s ease-in-out infinite;
+  pointer-events: none;
+  z-index: 0;
+  opacity: 0.85;
 }
 
-.btn-outline-primary:hover {
-  background-color: #0F4C81;
-  color: white;
-}
-/* Navbar */
-.navbar {
-  box-shadow: 0 2px 10px rgba(0,0,0,.12);
-}
-
-.navbar-nav .nav-link {
-    color: #0F4C81 !important;
-    font-weight: 500;
-}
-
-.navbar-nav .nav-link:hover {
-    color: #2E8B57 !important;
-}
-
-.navbar-nav .nav-link:hover {
-  color: #E9B949 !important;
-}
-
-/* Buttons */
-.btn-primary {
-  background-color: #2E8B57;
-  border-color: #2E8B57;
-}
-
-.btn-primary:hover {
-  background-color: #246B45;
-  border-color: #246B45;
+/* ============================================
+   DNA PARTICLES - LAYER 2
+   ============================================ */
+body::after {
+  content: '';
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-image: 
+    url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='12' viewBox='0 0 12 12'%3E%3Ccircle cx='3' cy='3' r='1.5' fill='%234FC3F7'/%3E%3Ccircle cx='9' cy='3' r='1.5' fill='%23FF6B9D'/%3E%3Ccircle cx='3' cy='9' r='1.5' fill='%23FF6B9D'/%3E%3Ccircle cx='9' cy='9' r='1.5' fill='%234FC3F7'/%3E%3C/svg%3E"),
+    url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' viewBox='0 0 16 16'%3E%3Cpath d='M4 2 L7 5 L4 8' stroke='%234FC3F7' stroke-width='1.2' fill='none'/%3E%3Cpath d='M12 2 L9 5 L12 8' stroke='%23FF6B9D' stroke-width='1.2' fill='none'/%3E%3C/svg%3E"),
+    url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='18' height='10' viewBox='0 0 18 10'%3E%3Crect x='2' y='2' width='3' height='6' rx='0.5' fill='%234FC3F7' opacity='0.7'/%3E%3Crect x='13' y='2' width='3' height='6' rx='0.5' fill='%23FF6B9D' opacity='0.7'/%3E%3C/svg%3E");
+  background-size: 15px 15px, 18px 18px, 20px 12px;
+  background-repeat: no-repeat;
+  background-position: 
+    10% 50%, 20% 75%, 30% 15%, 40% 60%, 50% 35%, 
+    60% 85%, 70% 20%, 80% 70%, 90% 40%,
+    7% 30%, 17% 55%, 27% 80%, 37% 45%, 47% 90%,
+    57% 25%, 67% 60%, 77% 95%, 87% 30%, 97% 75%;
+  animation: floatDNA2 30s ease-in-out infinite reverse;
+  pointer-events: none;
+  z-index: 0;
+  opacity: 0.7;
 }
 
-/* Links */
-a {
-  color: #1565C0;
+/* ============================================
+   DNA ANIMATIONS
+   ============================================ */
+@keyframes floatDNA1 {
+  0% { transform: translate(0, 0) rotate(0deg) scale(1); }
+  12.5% { transform: translate(60px, -40px) rotate(45deg) scale(1.08); }
+  25% { transform: translate(-50px, 70px) rotate(90deg) scale(0.92); }
+  37.5% { transform: translate(80px, 25px) rotate(135deg) scale(1.05); }
+  50% { transform: translate(-70px, -50px) rotate(180deg) scale(0.95); }
+  62.5% { transform: translate(40px, 90px) rotate(225deg) scale(1.1); }
+  75% { transform: translate(-90px, 15px) rotate(270deg) scale(0.9); }
+  87.5% { transform: translate(50px, -70px) rotate(315deg) scale(1.03); }
+  100% { transform: translate(0, 0) rotate(360deg) scale(1); }
 }
 
-a:hover {
-  color: #2E8B57;
+@keyframes floatDNA2 {
+  0% { transform: translate(0, 0) rotate(0deg) scale(1); }
+  20% { transform: translate(-70px, 50px) rotate(-72deg) scale(0.9); }
+  40% { transform: translate(80px, -60px) rotate(-144deg) scale(1.1); }
+  60% { transform: translate(-50px, 40px) rotate(-216deg) scale(0.95); }
+  80% { transform: translate(60px, -30px) rotate(-288deg) scale(1.05); }
+  100% { transform: translate(0, 0) rotate(-360deg) scale(1); }
 }
 
-/* Headings */
-h1, h2, h3, h4 {
-  color: #0F4C81;
-  font-weight: 700;
+@keyframes glowPulse {
+  0%, 100% { box-shadow: 0 0 20px rgba(79, 195, 247, 0.15); }
+  50% { box-shadow: 0 0 40px rgba(255, 107, 157, 0.2); }
 }
 
-/* Cards */
+/* ============================================
+   CONTENT LAYERS
+   ============================================ */
+.navbar, .container, footer, .main-content, .quarto-content {
+  position: relative;
+  z-index: 1;
+}
+
+/* ============================================
+   CARDS
+   ============================================ */
 .card {
   border-radius: 12px;
   border: none;
-  box-shadow: 0 4px 15px rgba(0,0,0,.08);
+  box-shadow: 0 8px 32px rgba(0,0,0,.4);
+  background: rgba(10, 14, 39, 0.75);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border: 1px solid rgba(79, 195, 247, 0.12);
+  color: #FFFFFF;
+  transition: all 0.3s ease;
 }
 
-/* Footer */
-footer {
-  color: white;
+.card:hover {
+  border-color: rgba(79, 195, 247, 0.25);
+  box-shadow: 0 8px 40px rgba(79, 195, 247, 0.08);
+  transform: translateY(-3px);
 }
 
-.chair-photo img {
-    width: 180px;
-    height: 180px;
-    object-fit: cover;
-    border-radius: 50%;
-    border: 4px solid #0F4C81;
-    box-shadow: 0 4px 12px rgba(0,0,0,0.2);
+/* ============================================
+   NAVBAR
+   ============================================ */
+.navbar {
+  box-shadow: 0 2px 20px rgba(0,0,0,.4);
+  background: rgba(10, 14, 39, 0.85) !important;
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border-bottom: 1px solid rgba(79, 195, 247, 0.08);
+}
+
+.navbar-nav .nav-link {
+  color: #E0E7FF !important;
+  font-weight: 500;
+  transition: color 0.3s ease;
+}
+
+.navbar-nav .nav-link:hover {
+  color: #4FC3F7 !important;
+}
+
+/* ============================================
+   BUTTONS
+   ============================================ */
+.btn-primary {
+  background: linear-gradient(135deg, #4FC3F7, #3D8BFF) !important;
+  border: none !important;
+  color: #FFFFFF !important;
+  transition: all 0.3s ease;
+}
+
+.btn-primary:hover {
+  background: linear-gradient(135deg, #3D8BFF, #4FC3F7) !important;
+  transform: translateY(-2px);
+  box-shadow: 0 6px 20px rgba(79, 195, 247, 0.25);
+  color: #FFFFFF !important;
+}
+
+.btn-outline-primary {
+  color: #4FC3F7 !important;
+  border-color: #4FC3F7 !important;
+  background: transparent !important;
+}
+
+.btn-outline-primary:hover {
+  background: linear-gradient(135deg, #4FC3F7, #3D8BFF) !important;
+  color: #0a0e27 !important;
+  border-color: #4FC3F7 !important;
+  transform: translateY(-2px);
+  box-shadow: 0 6px 20px rgba(79, 195, 247, 0.15);
 }
 
 .download {
-    background: #1F3A5F !important;
-    color: white !important;
-    border-radius: 30px;
-    padding: 12px 28px;
-    font-size: 1.05rem;
-    font-weight: 600;
-    border: none;
-    transition: all 0.3s ease;
+  background: linear-gradient(135deg, #FF6B9D, #4FC3F7) !important;
+  color: white !important;
+  border-radius: 30px;
+  padding: 12px 28px;
+  font-size: 1.05rem;
+  font-weight: 600;
+  border: none;
+  transition: all 0.3s ease;
 }
 
 .download:hover {
-    background: #C9A227 !important;
-    color: #1F3A5F !important;
-    transform: translateY(-2px);
-    box-shadow: 0 6px 18px rgba(0,0,0,0.15);
+  background: linear-gradient(135deg, #4FC3F7, #FF6B9D) !important;
+  color: #0a0e27 !important;
+  transform: translateY(-3px) scale(1.02);
+  box-shadow: 0 8px 30px rgba(79, 195, 247, 0.25);
+}
+
+/* ============================================
+   LINKS & HEADINGS
+   ============================================ */
+a {
+  color: #4FC3F7;
+  transition: color 0.3s ease;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #FF6B9D;
+  text-decoration: underline;
+}
+
+h1, h2, h3, h4, .h1, .h2, .h3, .h4 {
+  background: linear-gradient(135deg, #4FC3F7, #FF6B9D);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  font-weight: 700;
+}
+
+/* ============================================
+   FOOTER
+   ============================================ */
+footer, .footer {
+  color: #FFFFFF;
+  background: rgba(10, 14, 39, 0.8) !important;
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border-top: 1px solid rgba(79, 195, 247, 0.08);
+}
+
+/* ============================================
+   PROFILE IMAGE
+   ============================================ */
+.chair-photo img, .profile-image img, img[alt*="profile"] {
+  width: 180px;
+  height: 180px;
+  object-fit: cover;
+  border-radius: 50%;
+  border: 3px solid transparent;
+  background-image: linear-gradient(135deg, #4FC3F7, #FF6B9D, #4FC3F7);
+  background-origin: border-box;
+  background-clip: padding-box, border-box;
+  box-shadow: 0 0 30px rgba(79, 195, 247, 0.15);
+  animation: glowPulse 3s ease-in-out infinite;
+}
+
+/* ============================================
+   TABLES
+   ============================================ */
+table {
+  background: rgba(10, 14, 39, 0.5);
+  backdrop-filter: blur(8px);
+  border-radius: 8px;
+  color: #E0E7FF;
+  border-color: rgba(79, 195, 247, 0.1);
+}
+
+.table-striped > tbody > tr:nth-of-type(odd) {
+  background-color: rgba(79, 195, 247, 0.04);
+}
+
+/* ============================================
+   CODE BLOCKS
+   ============================================ */
+pre, code {
+  background: rgba(10, 14, 39, 0.6);
+  border: 1px solid rgba(79, 195, 247, 0.08);
+  border-radius: 4px;
+  color: #E0E7FF;
+}
+
+/* ============================================
+   BLOCKQUOTES
+   ============================================ */
+blockquote {
+  border-left: 3px solid #4FC3F7;
+  background: rgba(79, 195, 247, 0.04);
+  padding: 10px 20px;
+}
+
+/* ============================================
+   FORMS
+   ============================================ */
+.form-control, input, textarea {
+  background: rgba(255, 255, 255, 0.05);
+  border: 1px solid rgba(79, 195, 247, 0.15);
+  color: #E0E7FF;
+  transition: all 0.3s ease;
+}
+
+.form-control:focus, input:focus, textarea:focus {
+  background: rgba(255, 255, 255, 0.08);
+  border-color: #4FC3F7;
+  color: #E0E7FF;
+  box-shadow: 0 0 0 0.2rem rgba(79, 195, 247, 0.1);
+}
+
+/* ============================================
+   CALLOUT BLOCKS - FIXED VISIBILITY
+   ============================================ */
+.callout,
+.callout-important,
+.callout-note,
+.callout-tip,
+.callout-warning,
+.callout-caution {
+  color: #E0E7FF !important;
+  background: rgba(10, 14, 39, 0.7) !important;
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+  border-radius: 12px !important;
+  padding: 20px 25px !important;
+  margin: 20px 0 !important;
+  border-left: 4px solid #4FC3F7 !important;
+}
+
+.callout-important {
+  border-left-color: #4FC3F7 !important;
+  background: rgba(79, 195, 247, 0.08) !important;
+}
+
+.callout-note {
+  border-left-color: #4FC3F7 !important;
+}
+
+.callout-tip {
+  border-left-color: #FFD700 !important;
+}
+
+.callout-warning {
+  border-left-color: #FF6B9D !important;
+}
+
+.callout-caution {
+  border-left-color: #FF6B9D !important;
+}
+
+/* All text inside callouts */
+.callout *,
+.callout-important *,
+.callout-note *,
+.callout-tip *,
+.callout-warning *,
+.callout-caution *,
+[class*="callout"] * {
+  color: #E0E7FF !important;
+}
+
+/* Callout headings */
+.callout h1, .callout h2, .callout h3, .callout h4,
+.callout-important h1, .callout-important h2, .callout-important h3, .callout-important h4,
+.callout-note h1, .callout-note h2, .callout-note h3, .callout-note h4,
+.callout-tip h1, .callout-tip h2, .callout-tip h3, .callout-tip h4,
+.callout-warning h1, .callout-warning h2, .callout-warning h3, .callout-warning h4,
+.callout-caution h1, .callout-caution h2, .callout-caution h3, .callout-caution h4,
+[class*="callout"] h1, [class*="callout"] h2, [class*="callout"] h3, [class*="callout"] h4 {
+  color: #4FC3F7 !important;
+  -webkit-text-fill-color: #4FC3F7 !important;
+  background: none !important;
+  margin-top: 0 !important;
+}
+
+/* Callout paragraphs */
+.callout p, .callout-important p, .callout-note p, .callout-tip p, .callout-warning p, .callout-caution p,
+[class*="callout"] p {
+  color: #E0E7FF !important;
+  font-size: 1.05rem;
+  line-height: 1.6;
+}
+
+/* Callout strong/bold text */
+.callout strong, .callout-important strong, .callout-note strong, .callout-tip strong, 
+.callout-warning strong, .callout-caution strong, [class*="callout"] strong {
+  color: #4FC3F7 !important;
+}
+
+/* Callout title */
+.callout-title, .callout-important .callout-title, [class*="callout"] .callout-title {
+  color: #4FC3F7 !important;
+}
+
+/* Callout body */
+.callout-body, .callout-important .callout-body, [class*="callout"] .callout-body {
+  color: #E0E7FF !important;
+}
+
+/* ============================================
+   GENERAL TEXT
+   ============================================ */
+p, .text-muted, .quarto-text {
+  color: rgba(224, 231, 255, 0.92) !important;
 }
