@@ -21,7 +21,7 @@ toc: false
 
 <br>
 
-The **1st Hybrid National Seminar on Bioactive Molecules: From Characterization to Innovative Biotechnological Applications (NSBM26)** is organized by the **Concept and Application of Bioactive Molecules (CAMBio) Laboratory** in partnership with the **National Higher School of Biotechnology (ENSB)**.
+The **1st Hybrid National Seminar on Bioactive Molecules: From Characterization to Innovative Biotechnological Applications (NSBM26)** is organized by the **Conception and Application of Bioactive Molecules (CAMBio) Laboratory** in partnership with the **National Higher School of Biotechnology (ENSB)**.
 
 Held in **hybrid format**, NSBM26 will bring together researchers, academics, doctoral students, and industry professionals to showcase the latest advances in bioactive molecules and their biotechnological applications through keynote lectures, oral and poster presentations, and high-level scientific discussions.
 
@@ -90,7 +90,7 @@ The seminar aims to:
 
 ## Organized by
 
-- **Concept and Application of Bioactive Molecules (CAMBio) Laboratory**
+- **Conception and Application of Bioactive Molecules (CAMBio) Laboratory**
 - **National Higher School of Biotechnology (ENSB)**
 
 ------------------------------------------------------------------------
