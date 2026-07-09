@@ -561,3 +561,22 @@ blockquote {
 p, .text-muted, .quarto-text {
   color: rgba(224, 231, 255, 0.92) !important;
 }
+
+/* Footer */
+.nav-footer {
+  background-color: #1f3b73;   /* Choose your conference color */
+  color: white !important;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+}
+
+.nav-footer a,
+.nav-footer p,
+.nav-footer div,
+.nav-footer span {
+  color: white !important;
+}
+
+.nav-footer strong {
+  color: #ffd166;   /* Gold highlight */
+}

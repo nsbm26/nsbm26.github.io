@@ -32,12 +32,14 @@ website:
       - href: contact.qmd
         text: Contact
 
+ 
   page-footer:
-    background: "#0F4C81"
-    foreground: "#FFFFFF"
-    left: "© 2026 CAMBio Laboratory"
-    center: "**NSBM 2026**"
-    right: "Constantine, Algeria"
+    left: |
+      © 2026 **NSBM26**. All rights reserved.
+    center: |
+      The **Microsoft CMT** service was used to manage the abstract submission and peer-review process for this seminar. This service was provided free of charge by Microsoft, including Azure cloud services, software development, and technical support.
+    right: |
+      Designed and maintained by the **NSBM26 Organizing Committee** using **Quarto**.
 
 format:
   html:
