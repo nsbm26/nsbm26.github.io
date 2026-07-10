@@ -44,9 +44,6 @@ Located within the **Ali Mendjeli University Campus**, ENSB offers modern teachi
 
 # Participation
 
-:::: {.columns}
-
-::: {.column width="50%"}
 
 ::: {.callout-important}
 
@@ -62,9 +59,7 @@ Participants attending in person will be able to:
 
 :::
 
-:::
 
-::: {.column width="50%"}
 
 ::: {.callout-note}
 
@@ -78,10 +73,6 @@ Remote participants will receive:
 - Certificate of participation
 
 :::
-
-:::
-
-::::
 
 ---
 

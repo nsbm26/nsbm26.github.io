@@ -3,24 +3,29 @@ page-layout: full
 toc: false
 ---
 
-::: hero-section
-![](Constantine.JPG){width="100%"}
+::: {.hero-banner}
 
-### The First Hybrid National Seminar on Bioactive Molecules: From Characterization to Innovative Biotechnological Applications
-
-**November 29–30, 2026**
-
-**National Higher School of Biotechnology (ENSB) – Taoufik Khaznadar. Ali Mendjeli, Constantine, Algeria**
-
-![](ENSB.JPG){width="100%"}
-
-<br>
+![](Constantine.JPG){.hero-image}
 
 :::
 
-<br>
+::: {.hero-title}
 
-The **First Hybrid National Seminar on Bioactive Molecules: From Characterization to Innovative Biotechnological Applications (NSBM26)** is organized by the **Conception and Application of Bioactive Molecules (CAMBio) Laboratory** in partnership with the **National Higher School of Biotechnology (ENSB)**.
+# The First National Seminar on Bioactive Molecules: From Characterization to Innovative Biotechnological Applications
+
+**November 29–30, 2026**
+
+**Higher National School of Biotechnology (ENSB) – Taoufik Khaznadar Ali Mendjeli, Constantine, Algeria**
+
+:::
+
+::: {.hero-banner}
+
+![](ENSB.JPG){.hero-image}
+
+:::
+
+The **First National Seminar on Bioactive Molecules: From Characterization to Innovative Biotechnological Applications (NSBM26)** is organized by the **Conception and Application of Bioactive Molecules (CAMBio) Laboratory** in partnership with the **Higher National School of Biotechnology (ENSB)**.
 
 Held in **hybrid format**, NSBM26 will bring together researchers, academics, doctoral students, and industry professionals to showcase the latest advances in bioactive molecules and their biotechnological applications through keynote lectures, oral and poster presentations, and high-level scientific discussions.
 
@@ -42,37 +47,7 @@ The seminar aims to:
 
 ## Scientific Themes
 
-:::::::: grid
-::: g-col-lg-4
-### 🩺 Topic 1
-
-**Pharmacology of Bioactive Molecules and Human Health**
-:::
-
-::: g-col-lg-4
-### 🌱 Topic 2
-
-**Bioactive Molecules for Food Security and Agro-Industry**
-:::
-
-::: g-col-lg-4
-### 🔬 Topic 3
-
-**Microbial Biotechnologies and Energy Security**
-:::
-
-::: g-col-lg-6
-### 🌍 Topic 4
-
-**Environmental Valorization and Preservation**
-:::
-
-::: g-col-lg-6
-### 🤖 Topic 5
-
-**Digital Innovation and Artificial Intelligence in Biotechnology**
-:::
-::::::::
+![](Themes.JPG){.hero-image}
 
 ------------------------------------------------------------------------
 

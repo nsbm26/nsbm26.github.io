@@ -99,7 +99,7 @@ National Higher School of Biotechnology (ENSB), Constantine, Algeria
 | Amel DJEHAL | ENSB |
 | Sirine BIBAK | ENSB |
 | Khedidja BOUMAZA | ENSB |
-| Mohamed Sabri BENSAAD | University of Batna 1 |
+| Mohamed Sabri BENSAAD | University of Batna 2 |
 | Amina KEMMOUCHE | ENSB |
 | Taklit MADDI | ENSB |
 | Maroua DOUIBI | ENSB |
@@ -109,11 +109,12 @@ National Higher School of Biotechnology (ENSB), Constantine, Algeria
 | Abir ADDOUDA | ENSB |
 | Nor Elhouda AZZIZI | ENSB |
 | Adel KRID | University Constantine 1 |
-| Mohamed Essalih BENDJRADA | ENSB |
+| Mohammed Essalih BENDJRADA | ENSB |
 | Radia KECHID | ENSB |
 | Ahlem CHELGHOUM | ENSB |
 | Fatima Zohra KAHLOUCHE | ENSB |
 | Maroua ZERMANE | ENSB |
+| Amina ALOUACHE | ENSB |
 | Asma CHEBAHI | ENSB |
 | Basma TELAIDJIA | ENSB |
 | Ghozlane BERBOUCHA | ENSB |
@@ -126,8 +127,8 @@ National Higher School of Biotechnology (ENSB), Constantine, Algeria
 | Antar MOHAMED BOUCHAALA | ENSB |
 | Skander DAKKICHE | ENSB |
 | Sawssen KIKAYA | ENSB |
-| Ramzy BOUDOUDA | ENSB |
-| Amina ALOUACHE | ENSB |
+| Ramzi BOUDOUDA | ENSB |
+
 ---
 
 # Scientific Committee

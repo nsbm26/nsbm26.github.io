@@ -580,3 +580,44 @@ p, .text-muted, .quarto-text {
 .nav-footer strong {
   color: #ffd166;   /* Gold highlight */
 }
+
+/* Full-width hero section */
+.hero-banner {
+  width: 100vw;
+  margin-left: calc(50% - 50vw);
+  margin-right: calc(50% - 50vw);
+}
+
+.hero-image {
+  width: 100%;
+  height: auto;
+  object-fit: cover;
+  display: block;
+}
+
+.hero-content {
+  text-align: center;
+  max-width: 1000px;
+  margin: 3rem auto;
+  padding: 0 1rem;
+}
+
+.hero-title {
+  width: 100vw;
+  margin-left: calc(50% - 50vw);
+  margin-right: calc(50% - 50vw);
+  text-align: center;
+  padding: 3rem 2rem;
+}
+
+.hero-title h1 {
+  max-width: 1200px;
+  margin: 0 auto 1.5rem auto;
+  font-size: 2.8rem;
+  font-weight: 700;
+}
+
+.hero-title p {
+  margin: 0.5rem auto;
+  font-size: 1.2rem;
+}
