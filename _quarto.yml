@@ -3,7 +3,6 @@ project:
   output-dir: docs
 
 website:
-  title: "NSBM26"
   favicon: favicon.png
   navbar:
     background: "#FFFFFF"

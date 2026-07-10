@@ -5,7 +5,7 @@ toc: false
 
 ::: {.hero-banner}
 
-![](Constantine.JPG){.hero-image}
+![](Const.JPG){.hero-image}
 
 :::
 
@@ -67,21 +67,6 @@ October 16–31, 2026
 
 **Seminar**  
 November 29–30, 2026
-
----
-
-## Organized by
-
-- **Conception and Application of Bioactive Molecules (CAMBio) Laboratory**
-- **National Higher School of Biotechnology (ENSB)**
-
-------------------------------------------------------------------------
-
-## Contact
-
-**Email**: nsbm@ensbiotech.edu.dz
-
-**Phone**: +213 5 50 84 74 87
 
 ------------------------------------------------------------------------
 
