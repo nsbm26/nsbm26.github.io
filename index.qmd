@@ -11,8 +11,6 @@ toc: false
 
 ::: {.hero-title}
 
-# The First National Seminar on Bioactive Molecules: From Characterization to Innovative Biotechnological Applications
-
 **November 29–30, 2026**
 
 **Higher National School of Biotechnology (ENSB) – Taoufik Khaznadar Ali Mendjeli, Constantine, Algeria**
