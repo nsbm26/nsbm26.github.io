@@ -5,7 +5,7 @@ toc: false
 
 ::: {.hero-banner}
 
-![](Const.JPG){.hero-image}
+![](Constan.PNG){.hero-image}
 
 :::
 
@@ -16,10 +16,9 @@ toc: false
 **Higher National School of Biotechnology (ENSB) – Taoufik Khaznadar Ali Mendjeli, Constantine, Algeria**
 
 :::
-
 ::: {.hero-banner}
 
-![](ENSB.JPG){.hero-image}
+![](ENSB.JPG){.hero-image-small}
 
 :::
 
@@ -45,7 +44,7 @@ The seminar aims to:
 
 ## Scientific Themes
 
-![](Themes.JPG){.hero-image}
+![](Themes.PNG){width="75%" fig-align="center"}
 
 ------------------------------------------------------------------------
 
