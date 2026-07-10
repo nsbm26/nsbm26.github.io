@@ -4,7 +4,7 @@ page-layout: article
 toc: true
 ---
 
-The success of the **1st Hybrid National Seminar on Bioactive Molecules (NSBM 2026)** relies on the dedication and expertise of its organizing and scientific committees. Their commitment ensures the scientific quality, organization, and success of the seminar.
+The success of the **first National Seminar on Bioactive Molecules (NSBM 2026)** relies on the dedication and expertise of its organizing and scientific committees. Their commitment ensures the scientific quality, organization, and success of the seminar.
 
 ---
 
@@ -26,7 +26,7 @@ The success of the **1st Hybrid National Seminar on Bioactive Molecules (NSBM 20
 
 **Honorary Chairman**
 
-National Higher School of Biotechnology (ENSB), Constantine, Algeria
+Higher National School of Biotechnology (ENSB), Constantine, Algeria
 
 :::
 
@@ -52,7 +52,7 @@ National Higher School of Biotechnology (ENSB), Constantine, Algeria
 
 **Seminar Chairman**
 
-National Higher School of Biotechnology (ENSB), Constantine, Algeria
+Higher National School of Biotechnology (ENSB), Constantine, Algeria
 
 :::
 
@@ -80,7 +80,7 @@ National Higher School of Biotechnology (ENSB), Constantine, Algeria
 
 **Committee Chair**
 
-National Higher School of Biotechnology (ENSB), Constantine, Algeria
+Higher National School of Biotechnology (ENSB), Constantine, Algeria
 
 :::
 

@@ -4,7 +4,7 @@ page-layout: article
 toc: false
 ---
 
-The **1st Hybrid National Seminar on Bioactive Molecules** will feature distinguished researchers and experts from academia, research institutions, and industry.
+The **First National Seminar on Bioactive Molecules** will feature distinguished researchers and experts from academia, research institutions, and industry.
 
 The list of invited speakers will be updated as confirmations are received.
 

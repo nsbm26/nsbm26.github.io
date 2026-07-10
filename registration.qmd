@@ -4,9 +4,9 @@ page-layout: article
 toc: true
 ---
 
-We are pleased to invite researchers, academics, students, and professionals to participate in the **1st Hybrid National Seminar on Bioactive Molecules: From Characterization to Innovative Biotechnological Applications**.
+We are pleased to invite researchers, academics, students, and professionals to participate in the **first National Seminar on Bioactive Molecules: From Characterization to Innovative Biotechnological Applications**.
 
-The seminar will be held in **hybrid format**, allowing participants to attend either **in person** at the National Higher School of Biotechnology (ENSB), Constantine, or **online**.
+The seminar will be held in **hybrid format**, allowing participants to attend either **in person** at the Higher National School of Biotechnology (ENSB), Constantine, or **online**.
 
 ------------------------------------------------------------------------
 
@@ -31,7 +31,7 @@ The registration fee covers:
 -   Coffee breaks
 -   Book of Abstracts (digital version)
 
-> **Note:** Lunch and accommodation are not included unless otherwise specified.
+> **Note:** Accommodation are not included unless otherwise specified.
 
 ------------------------------------------------------------------------
 
@@ -72,7 +72,7 @@ After payment confirmation, you will receive
 
 Participants may attend the seminar at
 
-**National Higher School of Biotechnology (ENSB)**\
+**Higher National School of Biotechnology (ENSB)**\
 Taoufik Khaznadar Campus\
 Ali Mendjeli\
 Constantine, Algeria

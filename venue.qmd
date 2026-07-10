@@ -4,7 +4,7 @@ page-layout: article
 toc: true
 ---
 
-The **The First Hybrid National Seminar on Bioactive Molecules (NSBM 2026)** will be held in **hybrid format**, allowing participants to attend **in person** at the National Higher School of Biotechnology (ENSB), Constantine, Algeria, or **online** from anywhere in the world.
+The **The First National Seminar on Bioactive Molecules (NSBM 2026)** will be held in **hybrid format**, allowing participants to attend **in person** at the Higher National School of Biotechnology (ENSB), Constantine, Algeria, or **online** from anywhere in the world.
 
 
 ![](ENSB.JPG){width=100% fig-alt="ENSB, Algeria"}
@@ -16,7 +16,7 @@ The **The First Hybrid National Seminar on Bioactive Molecules (NSBM 2026)** wil
 
 ::: {.callout-tip}
 
-## National Higher School of Biotechnology (ENSB)
+## Higher National School of Biotechnology (ENSB)
 
 **École Nationale Supérieure de Biotechnologie (ENSB) – Taoufik Khaznadar**
 
@@ -36,7 +36,7 @@ Constantine, Algeria
 
 # About ENSB
 
-The **National Higher School of Biotechnology (ENSB)** is one of Algeria's leading institutions dedicated to biotechnology education, scientific research, and innovation.
+The **Higher National School of Biotechnology (ENSB)** is one of Algeria's leading institutions dedicated to biotechnology education, scientific research, and innovation.
 
 Located within the **Ali Mendjeli University Campus**, ENSB offers modern teaching facilities, advanced laboratories, and an inspiring academic environment. Its location in **Constantine**, one of Algeria's major scientific and cultural centers, makes it an ideal venue for bringing together researchers, academics, students, and industry professionals.
 
@@ -143,6 +143,6 @@ For any questions regarding travel, accommodation, or the venue, please contact:
 
 ## We Look Forward to Welcoming You!
 
-Whether you join us **in Constantine** or **online**, we look forward to welcoming you to the **The First Hybrid National Seminar on Bioactive Molecules (NSBM 2026)** and wish you a productive and enjoyable scientific experience.
+Whether you join us **in Constantine** or **online**, we look forward to welcoming you to the **The First National Seminar on Bioactive Molecules (NSBM 2026)** and wish you a productive and enjoyable scientific experience.
 
 :::
