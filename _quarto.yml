@@ -10,7 +10,7 @@ website:
     pinned: true
     collapse: true
     search: true
-    logo: "logo.png"
+    logo: "logo2.png"
 
     left:
       - href: index.qmd

@@ -85,7 +85,7 @@ Submitted abstracts **must**
 
 Please prepare your abstract using the official **NCBM 2026** Microsoft Word template.
 
-[⬇️ Download NCBM26 Abstract Template](files/NSBM26_Template.docx){.btn .btn-primary .btn-lg}
+[⬇️ Download NCBM26 Abstract Template](files/NCBM26_Template.docx){.btn .btn-primary .btn-lg}
 
 :::
 
