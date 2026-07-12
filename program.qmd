@@ -4,7 +4,7 @@ page-layout: article
 toc: true
 ---
 
-The **First National Seminar on Bioactive Molecules** will take place over **two days**, bringing together keynote lectures, oral presentations, poster sessions, and scientific discussions.
+The **First National Conference on Bioactive Molecules** will take place over **two days**, bringing together keynote lectures, oral presentations, poster sessions, and scientific discussions.
 
 > **Dates:** November 29–30, 2026\
 > **Venue:** Higher National School of Biotechnology (ENSB), Constantine, Algeria
@@ -89,7 +89,7 @@ The **First National Seminar on Bioactive Molecules** will take place over **two
 |---------------|--------------------------|
 | 16:00 – 16:30 | Best Presentation Awards |
 | 16:30 – 17:00 | Closing Remarks          |
-| 17:00         | End of Seminar           |
+| 17:00         | End of Conference           |
 
 ------------------------------------------------------------------------
 

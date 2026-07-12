@@ -4,7 +4,7 @@ page-layout: article
 toc: true
 ---
 
-The success of the **first National Seminar on Bioactive Molecules (NSBM 2026)** relies on the dedication and expertise of its organizing and scientific committees. Their commitment ensures the scientific quality, organization, and success of the seminar.
+The success of the **first National Conference on Bioactive Molecules (NCBM 2026)** relies on the dedication and expertise of its organizing and scientific committees. Their commitment ensures the scientific quality, organization, and success of the conference
 
 ---
 
@@ -34,7 +34,7 @@ Higher National School of Biotechnology (ENSB), Constantine, Algeria
 
 ---
 
-# Seminar Chairman
+# Conference Chairman
 
 :::: {.columns align="center"}
 
@@ -50,7 +50,7 @@ Higher National School of Biotechnology (ENSB), Constantine, Algeria
 
 ### **Prof. MARIR Rafik**
 
-**Seminar Chairman**
+**Conference Chairman**
 
 Higher National School of Biotechnology (ENSB), Constantine, Algeria
 
@@ -187,5 +187,6 @@ University of Constantine 1
 | Soheib ZERROUKI | ENSB |
 | Adel KECHKAR | ENSB |
 | Sihem CHEHLATT | ENSB |
+| Mohamed Sabri BENSAAD | University of Batna 2 |
 
 ---

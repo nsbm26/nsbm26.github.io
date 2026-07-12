@@ -4,7 +4,7 @@ page-layout: article
 toc: false
 ---
 
-The **First National Seminar on Bioactive Molecules** will feature distinguished researchers and experts from academia, research institutions, and industry.
+The **First National Conference on Bioactive Molecules** will feature distinguished researchers and experts from academia, research institutions, and industry.
 
 The list of invited speakers will be updated as confirmations are received.
 
@@ -78,7 +78,7 @@ Stay tuned for updates!
 
 ## Scientific Themes
 
-The invited talks will cover the seminar's five thematic areas:
+The invited talks will cover the Conference's five thematic areas:
 
 -   🩺 Pharmacology of Bioactive Molecules and Citizen Health
 -   🌱 Bioactive Molecules for Food Security and Agro-industry
@@ -93,7 +93,7 @@ The invited talks will cover the seminar's five thematic areas:
 Researchers interested in delivering an invited lecture may contact the organizing committee.
 
 **Email:**\
-**nsbm\@ensbiotech.edu.dz**
+**ncbm\@ensbiotech.edu.dz**
 
 ------------------------------------------------------------------------
 

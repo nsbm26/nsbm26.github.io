@@ -22,9 +22,9 @@ toc: false
 
 :::
 
-The **First National Seminar on Bioactive Molecules: From Characterization to Innovative Biotechnological Applications (NSBM26)** is organized by the **Conception and Application of Bioactive Molecules (CAMBio) Laboratory** in partnership with the **Higher National School of Biotechnology (ENSB)**.
+The **First National Conference on Bioactive Molecules: From Characterization to Innovative Biotechnological Applications (NCBM26)** is organized by the **Conception and Application of Bioactive Molecules (CAMBio) Laboratory** in partnership with the **Higher National School of Biotechnology (ENSB)**.
 
-Held in **hybrid format**, NSBM26 will bring together researchers, academics, doctoral students, and industry professionals to showcase the latest advances in bioactive molecules and their biotechnological applications through keynote lectures, oral and poster presentations, and high-level scientific discussions.
+Held in **hybrid format**, NCBM26 will bring together researchers, academics, doctoral students, and industry professionals to showcase the latest advances in bioactive molecules and their biotechnological applications through keynote lectures, oral and poster presentations, and high-level scientific discussions.
 
 ------------------------------------------------------------------------
 
@@ -32,7 +32,7 @@ Held in **hybrid format**, NSBM26 will bring together researchers, academics, do
 
 Bioactive molecules play a central role in modern scientific innovation by connecting natural resources with solutions that improve human health, agriculture, energy production, and environmental sustainability.
 
-The seminar aims to:
+The Conference aims to:
 
 - promote the valorization of natural bioresources;
 - encourage innovation in biotechnology;
@@ -62,7 +62,7 @@ October 15, 2026
 **Registration Fee Payment**  
 October 16–31, 2026
 
-**Seminar**  
+**Conference**  
 November 29–30, 2026
 
 ------------------------------------------------------------------------
