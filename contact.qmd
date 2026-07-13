@@ -1,22 +1,23 @@
 ---
-title: "Contact"
 page-layout: article
 toc: false
 ---
 
-We are happy to answer any questions regarding the **The First National Conference on Bioactive Molecules: From Characterization to Innovative Biotechnological Applications**.
+# Contact Us
 
-Whether your inquiry concerns abstract submission, registration, accommodation, or the scientific program, please do not hesitate to contact us.
+Thank you for your interest in the **First National Conference on Bioactive Molecules: From Characterization to Innovative Biotechnological Applications (NCBM 2026)**.
+
+The Organizing Committee is pleased to assist you with any questions related to the conference. Whether you need information about abstract submission, registration, the scientific program, accommodation, or participation, we are here to help.
 
 ---
 
 ## Conference Secretariat
 
-**The First National Conference on Bioactive Molecules (NCBM 2026)**
+**NCBM 2026 – Organizing Committee**
 
 **Conception and Application of Bioactive Molecules (CAMBio) Laboratory**
 
-Higher National School of Biotechnology (ENSB) – Taoufik Khaznadar
+**Higher National School of Biotechnology (ENSB) – Taoufik Khaznadar**
 
 Ali Mendjeli University Campus
 
@@ -26,49 +27,59 @@ Constantine, Algeria
 
 ## Contact Information
 
-📧 **Email: ncbm@ensbiotech.edu.dz**
+📧 **Email:** ncbm@ensbiotech.edu.dz
 
-☎ **Telephone**: +213 5 50 84 74 87
+☎ **Phone:** +213 5 50 84 74 87
 
-🌐 **Website**: https://www.ensbiotech.edu.dz
+🌐 **ENSB Website:** https://www.ensbiotech.edu.dz
+
+---
+
+## Follow CAMBio
+
+Stay connected with CAMBio and receive the latest news, conference announcements, and updates.
+
+- 📘 **Facebook:** [CAMBio Laboratory](https://www.facebook.com/share/1TyrSrw9hG/)
+- 💼 **LinkedIn:** [CAMBio Laboratory](https://www.linkedin.com/company/labo-cambio/)
+- ▶️ **YouTube:** [@LaboCAMBio](https://www.youtube.com/@LaboCAMBio)
 
 ---
 
 ## Office Hours
 
 | Day | Hours |
-|------|-------|
+|:------------------|:--------------|
 | Sunday – Thursday | 08:30 – 16:30 |
-| Friday & Saturday | Closed |
+| Friday – Saturday | Closed |
 
 ---
 
-## Contact the Organizing Committee
+## How Can We Help?
 
-For inquiries regarding:
+Please contact the Conference Secretariat regarding:
 
 - Abstract submission
-- Registration
-- Payment
+- Registration and participation
+- Conference fees
 - Invitation letters
-- Certificates
+- Certificates of participation
 - Accommodation
-- Visa support (international guests)
+- Visa support for international participants
 - Technical assistance
+- General inquiries
 
-please contact the conference secretariat by email.
+We aim to respond to all email inquiries as quickly as possible.
 
 ---
-
 
 ::: {.callout-important}
 
 ## We're Here to Help
 
-The Organizing Committee is committed to making your participation as smooth and enjoyable as possible.
+The Organizing Committee is committed to ensuring a smooth and enjoyable conference experience for all participants.
 
-If you have any questions before or during the conference, please don't hesitate to contact us.
+If you have any questions before or during the conference, please do not hesitate to contact us.
 
-We look forward to welcoming you to **NCBM 2026** in Constantine!
+We look forward to welcoming you to **NCBM 2026** at the **Higher National School of Biotechnology (ENSB)** in **Constantine, Algeria**.
 
 :::
