@@ -74,3 +74,69 @@ Be part of the first national scientific event dedicated to bioactive molecules 
 
 **Molecules Shaping Bio-innovation**
 :::
+
+------------------------------------------------------------------------
+
+## Sponsors & Partners
+
+We gratefully acknowledge the generous support of our sponsors and partners, whose contributions make **NCBM 2026** possible.
+
+::: {.columns}
+
+::: {.column width="25%"}
+![](Spon1.png){fig-align="center" width="85%"}
+:::
+
+::: {.column width="25%"}
+![](Spon2.png){fig-align="center" width="85%"}
+:::
+
+::: {.column width="25%"}
+![](Spon3.png){fig-align="center" width="85%"}
+:::
+
+::: {.column width="25%"}
+![](Spon4.png){fig-align="center" width="85%"}
+:::
+
+:::
+
+::: {.columns}
+
+::: {.column width="25%"}
+![](Spon5.png){fig-align="center" width="85%"}
+:::
+
+::: {.column width="25%"}
+![](Spon6.png){fig-align="center" width="85%"}
+:::
+
+::: {.column width="25%"}
+![](Spon7.png){fig-align="center" width="85%"}
+:::
+
+::: {.column width="25%"}
+![](Spon8.png){fig-align="center" width="85%"}
+:::
+
+:::
+
+::: {.columns}
+
+::: {.column width="25%"}
+![](Spon9.png){fig-align="center" width="85%"}
+:::
+
+::: {.column width="25%"}
+![](Spon10.png){fig-align="center" width="85%"}
+:::
+
+::: {.column width="25%"}
+![](Spon11.png){fig-align="center" width="85%"}
+:::
+
+::: {.column width="25%"}
+![](Spon12.png){fig-align="center" width="85%"}
+:::
+
+:::
