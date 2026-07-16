@@ -8,14 +8,12 @@ toc: false
 
 <br>
 
-![](files/NCBM_poster1.jpg){fig-alt="NCBM26 Conference Poster" width="80%"}
+![](files/NCBM_poster.jpg){fig-alt="NCBM26 Conference Poster"}
+
+
 
 <br>
 
-![](files/NCBM_poster2.jpg){fig-alt="NCBM26 Conference Poster" width="80%"}
-
-<br>
-
-[⬇️ Download the Conference Poster (PDF)](files/NCBM26_poster.pdf){.btn .btn-primary .btn-lg}
+[⬇️ Download the Conference Poster (PDF)](files/Poster.pdf){.btn .btn-primary .btn-lg}
 
 </div>
